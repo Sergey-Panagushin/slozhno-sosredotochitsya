@@ -16,12 +16,29 @@
   --card-text: #353430;
   --bg-list-title: #FF8DCB;
   --border-line: #353430;
+  --block: none;
+  --outline: rgba(50, 49, 45, 0.40);
+  --link: #353430;
+  --link-shadow: #FFC2E6;
 }
 
 
 
 @media (prefers-color-scheme: light) {
   :root {
-        /* Дублируем переменные светлой темы */    
+    --bg-color-page: #FFF1F7;
+    --bg-image: url(/images/cover-image-light.png);
+    --title-text: #FFC2E6;
+    --header-bg-color: #FF8DCB;
+    --button-text: #353430;
+    --header-text: #353430;
+    --card-title:#353430;
+    --list-title: #353430;
+    --card-text: #353430;
+    --bg-list-title: #FF8DCB;
+    --border-line: #353430;
+    --block: none;   
+    --outline: rgba(50, 49, 45, 0.40);
+    --link: #353430
     }
 }

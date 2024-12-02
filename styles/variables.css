@@ -17,4 +17,8 @@
 --bg-list-title: #FF0070;
 --card-text: #F1B2CE;
 --border-line: #FF0070;
+--block: flex;
+--outline: rgba(255, 0, 112, 0.40);
+--link: #F1B2CE;
+--link-shadow: #FF0070;
 }
