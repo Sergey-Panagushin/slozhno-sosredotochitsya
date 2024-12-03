@@ -6,7 +6,7 @@
 
 .page.theme_light {
   --bg-color-page: #FFF1F7;
-  --bg-image: url(/images/cover-image-light.png);
+  --bg-image: url(../images/cover-image-light.png);
   --title-text: #FFC2E6;
   --header-bg-color: #FF8DCB;
   --button-text: #353430;
@@ -27,7 +27,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --bg-color-page: #FFF1F7;
-    --bg-image: url(/images/cover-image-light.png);
+    --bg-image: url(../images/cover-image-light.png);
     --title-text: #FFC2E6;
     --header-bg-color: #FF8DCB;
     --button-text: #353430;

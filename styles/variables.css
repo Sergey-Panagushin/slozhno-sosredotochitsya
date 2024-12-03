@@ -5,7 +5,7 @@
 :root {
 --font-family: "IBM Plex Mono";
 --bg-color-page: #000028;
---bg-image: url(/images/cover-image-dark.png);
+--bg-image: url(../images/cover-image-dark.png);
 --bg-image-text: #FF0070;
 --title-text: #DB00FF;
 --text: #F1B2CE;
