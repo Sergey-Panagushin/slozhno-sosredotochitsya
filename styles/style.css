@@ -109,6 +109,7 @@
   justify-content: center;
   align-items: end;
   padding-right: 7px;
+  list-style-type: none;
 }
 
 .header__theme-menu-button {
@@ -163,10 +164,6 @@
 .link:focus-visible {
   outline: 1px solid var(--link);
   outline-offset: -1px;
-}
-
-.header__theme-menu-list {
-  list-style-type: none;
 }
 
 /* Стили main*/
