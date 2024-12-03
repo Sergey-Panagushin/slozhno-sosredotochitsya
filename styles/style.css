@@ -228,8 +228,6 @@
 /* секция card-images */
 
 .card-images {
-  margin-top: 30px;
-  padding: 10px;
   margin-bottom: 31px;
 }
 
@@ -330,8 +328,6 @@
   }
 
   .card-images {
-      margin-top: 40px;
-      padding: 20px;
       margin-bottom: 39px;
   }
 
