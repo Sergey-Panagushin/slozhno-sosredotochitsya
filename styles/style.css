@@ -4,6 +4,10 @@
   position: relative;
   background-color: var(--bg-color-page);
   margin: auto;
+  background-image: var(--bg-image);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .rec-div {
@@ -44,10 +48,6 @@
   min-height: 668px;
   position: relative;
   padding: 10px;
-  background-image: var(--bg-image);
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
 }
