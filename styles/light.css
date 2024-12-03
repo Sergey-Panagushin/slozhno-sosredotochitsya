@@ -39,6 +39,7 @@
     --border-line: #353430;
     --block: none;   
     --outline: rgba(50, 49, 45, 0.40);
-    --link: #353430
+    --link: #353430;
+    --link-shadow: #FFC2E6;
     }
 }

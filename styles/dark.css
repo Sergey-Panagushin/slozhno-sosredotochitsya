@@ -20,6 +20,8 @@
   --border-line: #FF0070; 
   --outline: rgba(255, 0, 112, 0.40);
   --block: flex;
+  --link: #F1B2CE;
+  --link-shadow: #FF0070;
 }
 
 
